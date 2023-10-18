@@ -1,0 +1,17 @@
+body {
+    background-color: maroon;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    color: lime;
+    text-align: center;
+}
+.assign {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    background:magenta;
+}
+.assign img {
+    width: 300px;
+}
