@@ -1,16 +1,16 @@
 body {
-    background-color: maroon;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(207, 208, 156);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
-    color: lime;
+    color: rgb(4, 0, 75);
     text-align: center;
 }
 .assign {
     display: flex;
     margin: 10px;
     padding: 10px;
-    background:magenta;
+    background:rgb(177, 204, 217);
 }
 .assign img {
     width: 300px;
