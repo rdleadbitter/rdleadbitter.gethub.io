@@ -6,34 +6,24 @@ body {
 }
 
 h1 {
-    color: #6EC5EB;
+    color: #EB6C59;
     text-align: center;
     display: block;
     width: 100%;
     font-size: 48px;
 }
-
-h1:hover {
-    color: #EB6C59;
-    text-align: center;
-    width: 100%;
-    display: block;
-    font-size: 48px;
-}
 a {
     text-decoration: none;
-    color: midnightblue;
-   }
-
-
-
-a {
-    text-decoration: none;
-    color: #EB6C59;
+    color: #EAD258;
 }
 
 h2 {
     text-decoration: none;
+    color: #EAD258;
+}
+
+h2:hover {
+    text-decoration:underline;
     color: #EB6C59;
 }
 
@@ -44,16 +34,17 @@ h2 {
     background-color: #6EC5EB;
     border-radius: 10px;
     width: 20%;
-    box-shadow: 8px 8px grey;
+    box-shadow: 8px 8px #EB6C59;
     display: block;
 }
 .assign img {
     padding: 10px; /* change this from margin to padding */
-    border: 2px dashed #EB6C59;
+    border: 2px dashed #EAD258;
     width: 354px;
 }
 .assign img:hover {
     width: 354px;
     padding: 10px;
-    border: 2px dotted #EAD258;
+    
+    border: 2px dashed #EB6C59;
 }
