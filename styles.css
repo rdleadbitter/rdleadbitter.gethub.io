@@ -19,12 +19,13 @@ a {
 
 h2 {
     text-decoration: none;
-    color: #EAD258;
+    color: black;
+    
 }
 
 h2:hover {
     text-decoration:underline;
-    color: #EB6C59;
+    color: #EAD258;
 }
 
 .assign {
@@ -40,11 +41,16 @@ h2:hover {
 .assign img {
     padding: 10px; /* change this from margin to padding */
     border: 2px dashed #EAD258;
-    width: 354px;
+    width: 90%;
 }
 .assign img:hover {
-    width: 354px;
+    width: 90%;
     padding: 10px;
-    
     border: 2px dashed #EB6C59;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
